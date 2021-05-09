@@ -1,0 +1,14 @@
+.card{
+    box-shadow: 3px 3px 3px grey;
+}
+.fa-star{
+    background-color: orange;
+}
+h3{
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
