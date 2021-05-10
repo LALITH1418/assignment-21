@@ -4,3 +4,9 @@ h1{
     color: honeydew;
     background-color: #266150;
 }
+.active{
+    font-weight: bold;
+}
+.navbar{
+    background-color: bisque;
+}

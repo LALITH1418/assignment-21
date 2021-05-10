@@ -1,0 +1,27 @@
+.main{
+    background-image: url("https://wallpaperaccess.com/full/1771974.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 3px;
+    border-left: 7px solid #004c4c;
+    border-top: 7px solid teal;
+    border-right: 7px solid #004c4c;
+    border-bottom: 7px solid teal;
+    box-shadow: 6px 6px 6px darkgrey;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 5.5vw;
+}
+.second{
+    color: navy;
+}
+a{
+    text-decoration: none;
+    font-family:fantasy;
+    color: indigo;
+    text-shadow: 2px 2px 2px lightsteelblue;
+}

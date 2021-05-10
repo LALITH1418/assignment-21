@@ -1,0 +1,27 @@
+form{
+    box-shadow: 3px 3px 3px grey;
+    background:linear-gradient(to right,#a3c1ad,#a0d6b4,#5f9ea0,#317873,#49796b);
+}
+.social{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+a{
+    color: navy;
+    font-size: 3rem;
+}
+input{
+    border-radius: 4px;
+    border: 3px solid gray;
+}
+button{
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+    color: black;
+}
