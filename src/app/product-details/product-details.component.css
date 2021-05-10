@@ -1,14 +1,10 @@
-.card{
-    box-shadow: 3px 3px 3px grey;
+
+img{
+    height: 45%;
 }
-.fa-star{
-    background-color: orange;
+button{
+    background-color: #152238;
 }
-h3{
-    color: navy;
-    font-family: 'Times New Roman', Times, serif;
-}
-h5{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
+.card:hover{
+    box-shadow: 5px 5px 5px darkslategray;
 }

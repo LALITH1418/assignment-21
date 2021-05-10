@@ -1,0 +1,29 @@
+.social{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: gold;
+    font-family: cursive;
+    font-weight: bold;
+}
+.logo{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: greenyellow;
+    font-weight: bold;
+}
+.footer{
+    background-color: black;
+    position: relative;
+}
+h5{
+    color: honeydew;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
