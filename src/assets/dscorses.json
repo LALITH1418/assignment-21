@@ -1,0 +1,50 @@
+ [
+  {
+    "courseName": "Data Science:R Basics",
+    "university": "HarvardX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/91f52ef3-fa3f-4934-9d19-8d5a32635cd4-d99e27f09d19.jpg"
+  },
+  {
+    "courseName": "Data Science:Machine Learning",
+    "university": "HarvardX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/7e5958e8-d709-41ab-8f8c-4339f7a733c9-bbb3b4ab9455.jpg"
+  },
+  {
+    "courseName": "Data Science:Visualization",
+    "university": "HarvardX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/b4072f23-f746-43a1-9819-8e3d8b066f38-76465b3bdbcc.jpg"
+  },
+  {
+    "courseName": "SQL for Data Science",
+    "university": "IBM",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/2b907cc6-4020-4242-a369-38a48ae95f83-53ead9cc7188.jpeg"
+  },
+  {
+    "courseName": "Fundamentals of Statistics",
+    "university": "MITx",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/54f10d8d-e1cd-44a9-9fe3-af78afe8a9ed-e646d043ea61.jpg"
+  },
+  {
+    "courseName": "Computational Thinking with Python",
+    "university": "BerkeleyX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/66f81e22-3e81-44a4-8838-dc529a099be5-d8be49e50d29.jpg"
+  },
+  {
+    "courseName": "Introduction to Predectice Analytics",
+    "university": "EdinburghX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/d6b3439e-b8ca-4b80-bb97-24847723b78b-8f7ac6d10e75.jpg"
+  },
+  {
+    "courseName": "Big Data Analytics Using SparK",
+    "university": "UCSanDiegoX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/21be6203-b140-422c-9233-a1dc278d7266-d008b677f4c1.jpg"
+  }
+]

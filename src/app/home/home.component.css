@@ -11,7 +11,7 @@
     border-bottom: 7px solid teal;
     box-shadow: 6px 6px 6px darkgrey;
 }
-h1{
+.first,.second{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 5.5vw;
@@ -19,9 +19,33 @@ h1{
 .second{
     color: navy;
 }
-a{
+.link1{
     text-decoration: none;
     font-family:fantasy;
     color: indigo;
     text-shadow: 2px 2px 2px lightsteelblue;
+}
+img{
+    height: 350px;
+}
+.ontext1{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 4vw;
+}
+.ontext2{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gold;
+    font-weight: bold;
+    font-size: 4vw;
+}
+.ontext3{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    font-size: 3vw;
 }

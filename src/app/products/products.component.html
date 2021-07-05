@@ -1,7 +1,18 @@
-<div class="container p-4">
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
-    <div class="col" *ngFor="let prObj of products">
-        <app-product-details [productObj]=prObj></app-product-details>
-    </div>
+<div class="parent">
+    <ul class="nav nav-pills nav-justified mt-2 mb-2 p-2 bg-dark">
+        <li class="nav-item m-1">
+          <a class="nav-link" routerLink="cs" routerLinkActive="active">Computer Science</a>
+        </li>
+        <li class="nav-item m-1">
+          <a class="nav-link" routerLink="ds" routerLinkActive="active">Data Analytics & Statistics</a>
+        </li>
+        <li class="nav-item m-1">
+          <a class="nav-link" routerLink="bnm" routerLinkActive="active">Business and Management</a>
+        </li>
+      </ul>
+
+      <div class="container">
+        <router-outlet></router-outlet>
+      </div>
 </div>
-</div>
+

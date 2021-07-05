@@ -1,0 +1,25 @@
+<div class="row mt-5">
+    <div class="col-sm-2 col-md-3"></div>
+        <div class="col-sm-8 col-md-6">
+        <form (ngSubmit)="onSubmitNewCourse()">
+            <div class="form-floating mb-3">
+                <input type="text" name="courseName" id="name" class="form-control" placeholder="Course name" [(ngModel)]="courseModel.courseName">
+                <label for="name">Course Name</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="text" name="university" id="un" class="form-control" placeholder="University Name" [(ngModel)]="courseModel.university">
+                <label for="un">university</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="text" name="type" id="course" class="form-control" placeholder="Type" [(ngModel)]="courseModel.type">
+                <label for="course">Type</label>
+            </div>
+            <div class="form-floating mb-3">
+                <input type="text" name="imageURL" id="img" class="form-control" placeholder="http:/xxxxxxxxxx.com/" [(ngModel)]="courseModel.imageURL">
+                <label for="img">Image URL</label>
+            </div>     
+            <button class="btn btn-danger float-end" type="submit"><i class="far fa-plus-square"></i> ADD COURSE</button>
+        </form>   
+        </div>
+    <div class="col-sm-2 col-md-3"></div>
+</div>

@@ -1,0 +1,34 @@
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+.rank{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.about{
+    font-family: 'Times New Roman', Times, serif;
+}
+.address{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: 	#fb9f9f;
+}
+.phone{
+    font-family: 'Pattaya', sans-serif;
+    color: 	#fb9f9f;
+}
+.card{
+    background-color: #010615;
+}
+.card{
+    opacity: 0.5;
+    transition: 0.5s;
+    background: linear-gradient(235deg,#ff005e,#010615,#89ff00);
+}
+.card:hover{
+    opacity: 1;
+    color:lightgray;
+}
+a{
+    text-decoration: none;
+}

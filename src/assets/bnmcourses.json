@@ -1,0 +1,50 @@
+ [
+  {
+    "courseName": "Technology Entrepreneurship",
+    "university": "HarvardX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/896ef47f-237f-47aa-a993-2beff9752254-036e4db702a9.png"
+  },
+  {
+    "courseName": "Critical Business Skills",
+    "university": "SNHUx",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/350bafb3-0d8d-4bc1-9335-1c497da64193-d31140cba50e.jpeg"
+  },
+  {
+    "courseName": "Leadership of Management",
+    "university": "UWashingtonX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/e36acdbe-0a8e-4ffe-b4d4-2851af27fd7c-cd8eee326abd.png"
+  },
+  {
+    "courseName": "Digital Marketing Stratergy",
+    "university": "EdinburghX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/5e2ea83a-3ec3-4461-86ab-94d17ab0c3f0-48921b894e85.jpeg"
+  },
+  {
+    "courseName": "Becoming a Perfect Leader",
+    "university": "UQx",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/9a0c24fa-6758-464d-9a01-fd5c7b18a96b-133d1c3bd2cd.jpg"
+  },
+  {
+    "courseName": "Accounting Essentials",
+    "university": "ImperialBusinessX",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/50088383-e285-4703-9faa-967fe7fd5b74-23b4205f830a.jpg"
+  },
+  {
+    "courseName": "Stratergic Management",
+    "university": "IIMBx",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/5a1b1afc-ca22-44a8-be26-e4f5dac3286e-6568d1fb2621.jpg"
+  },
+  {
+    "courseName": "Customer relationship Management",
+    "university": "IIMBx",
+    "type": "course",
+    "imageURL": "https://prod-discovery.edx-cdn.org/media/course/image/9ec91726-2f23-4d70-984d-17253c221cb7-7fa28f95b51c.jpg"
+  }
+]

@@ -1,10 +1,9 @@
-
-img{
-    height: 45%;
-}
 button{
     background-color: #152238;
 }
 .card:hover{
     box-shadow: 5px 5px 5px darkslategray;
+}
+img{
+    height: 150px;
 }

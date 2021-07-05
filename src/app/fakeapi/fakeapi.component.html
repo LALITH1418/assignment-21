@@ -1,0 +1,20 @@
+
+    <table class="text-center m-3">
+        <thead>
+            <tr>
+                <th class="p-3">UNIVERSITY-ID</th>
+                <th class="p-3">UNIVERSITY-NAME</th>
+                <th class="p-3">ABOUT INSTITUTE</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let unObj of universities">
+                <td>{{unObj.id}}.</td>
+                <td>{{unObj.name}}</td>
+                <td><button class="btn m-2" (click)="onSelectId(unObj.id)">see more>></button></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+

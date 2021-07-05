@@ -1,0 +1,83 @@
+{
+    "university":[
+        {
+            "id":1,
+            "name":"HarvardX University",
+            "ranking":3,
+            "about":"Harvard university is a private lvy league research university established in 1636,and named for its first benefactor, clergyman John Harvard.",
+            "address":"Cambridge, MA, United States",
+            "phone":"+1 617-495-1000",
+            "image":"https://www.collegeconsensus.com/wp-content/uploads/2016/12/o-HARVARD-UNIVERSITY-BUILDING-facebook.jpg"
+        },
+
+        {
+            "id":2,
+            "name":"Massachusetts Institute of Technology",
+            "ranking":1,
+            "about":"Massachusetts Institute of Technology (MIT) is a private land-grant research university established in 1861, the institute has since played a key role in the development of modern science, engineering, mathematics, and technology",
+            "address":"77 Massachusetts Ave, Cambridge, MA 02139, United States",
+            "phone":"+1 617-253-1000",
+            "image":"https://bostonglobe-prod.cdn.arcpublishing.com/resizer/VYIOZs08cK3up__1tptMGv-ph68=/1440x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ADK5YSWYSBDBDJZBRHJM2WVZPA.jpg"
+        },
+
+        {
+            "id":3,
+            "name":"Stanford University",
+            "ranking":2,
+            "about":"Stanford University, officially Leland Stanford Junior University, is a private research university. Stanford was founded in 1885 by Leland",
+            "address":"450 Serra Mall, Stanford, CA 94305, United States",
+            "phone":"+1 650-723-2300",
+            "image":"https://news-media.stanford.edu/wp-content/uploads/2020/08/19103542/Vision_hero-scaled.jpg"
+        },
+
+        {
+            "id":4,
+            "name":"University of Oxford",
+            "ranking":5,
+            "about":"The University of Oxford is a collegiate research university in Oxford. There is evidence of teaching as early as 1096, making it the oldest university in the English-speaking world",
+            "address":" Oxford OX1 2JD, United Kingdom",
+            "phone":"+44 1865 270000",
+            "image":"https://www.ox.ac.uk/sites/files/oxford/styles/ow_large_feature/s3/field/field_image_main/GAF%20Radcliffe%20Square%20Dawn%20-%20Elizabeth%20Nyikos.jpg?itok=U-0F0aPx"
+        },
+
+        {
+            "id":5,
+            "name":"University of Cambridge",
+            "ranking":7,
+            "about":"The University of Cambridge is a collegiate research university. Founded in 1209 and granted a royal charter by Henry III in 1231.Cambridge is the second-oldest university in the English-speaking world.",
+            "address":"The Old Schools, Trinity Ln, Cambridge CB2 1TN, United Kingdom",
+            "phone":"+44 1223 337733",
+            "image":"https://cdn.getyourguide.com/img/location/5c10eb2e55553.jpeg/88.jpg"
+        },
+
+        {
+            "id":6,
+            "name":"Columbia University",
+            "ranking":19,
+            "about":"Columbia University is a private Ivy League research university. Established in 1754 on the grounds of Trinity Church in Manhattan, Columbia is the oldest institution of higher education in New York and the fifth-oldest institution of higher learning in the United States.",
+            "address":"New York, NY 10027, United States",
+            "phone":"+1 212-854-1754",
+            "image":"https://files.structurae.net/files/photos/5256/2019-09-05/dsc01477.jpeg"
+        },
+
+        {
+            "id":7,
+            "name":"University of California, Berkeley",
+            "ranking":30,
+            "about":"The University of California, Berkeley is a public, land-grant research university. Established in 1868 as the state's first land-grant university, it was the first campus of the University of California ystem and a founding member of the Association of American Universities.",
+            "address":"Berkeley, CA, United States",
+            "phone":"+1 510-642-6000",
+            "image":"https://images.ctfassets.net/mrop88jh71hl/6r4boKoLUqOdmn4Q0d8RPw/ecadde2c348d6e811ebe3b165e275c0c/uc_berkeley.jpg"
+        },
+
+        {
+            "id":8,
+            "name":"University of California,  San Diego",
+            "ranking":54,
+            "about":"The University of California, San Diego is a public land-grant research university. Established in 1960. UC San Diego is ranked among the best universities in the world by major college and university rankings.",
+            "address":"9500 Gilman Dr, La Jolla, CA 92093, United States",
+            "phone":"+1 858-534-2230",
+            "image":"https://images.news18.com/ibnlive/uploads/2021/05/1621061161_university-of-california.jpg"
+        }
+    ]
+}
